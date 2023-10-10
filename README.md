@@ -1,7 +1,3 @@
-<style>
-r { color: Red }
-    </style>
-
 # Guided Assignment 1
 ## Code View and Message Box
 ---

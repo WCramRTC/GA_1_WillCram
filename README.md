@@ -40,7 +40,7 @@ _**GA_1_yourName**_
 ---
 #### **<r>Step 3</r> - Practice Navigating between Designer and Code View**
 
-You will constant be jumping between the Designer and the Code view of your wpf projects.
+You will constantly be jumping between the Designer and the Code view of your wpf projects.
 
 There are 2 ways of doing this
 

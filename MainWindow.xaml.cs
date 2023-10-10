@@ -23,6 +23,7 @@ namespace GA_1_WillCram
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("My name is William Cram.\n And I want to teach Computer Science");
         }
     }
 }
